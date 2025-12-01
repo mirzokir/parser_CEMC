@@ -1,4 +1,4 @@
-# **Parser Launcher — Automatic SEMS Data Processing Tool**
+# **Parser Launcher — Automatic CEMC Data Processing Tool**
 
 A powerful tool designed to automate and speed up SEMS-related data processing in Uzbekistan.
 This launcher significantly reduces the time required to handle large TXT/Excel datasets —
