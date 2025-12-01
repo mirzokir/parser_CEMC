@@ -1,6 +1,6 @@
 # **Parser Launcher — Automatic CEMC Data Processing Tool**
 
-A powerful tool designed to automate and speed up SEMS-related data processing in Uzbekistan.
+A powerful tool designed to automate and speed up CEMC-related data processing in Uzbekistan.
 This launcher significantly reduces the time required to handle large TXT/Excel datasets —
 from **up to 3 months of manual work** to **about 10 minutes**, thanks to full automation.
 
@@ -14,7 +14,7 @@ and exports processed results into Excel files.
 
 The goal of this project is to:
 
-* automate SEMS data preparation
+* automate CEMC data preparation
 * reduce processing time from months to minutes
 * avoid manual errors
 * provide a stable, repeatable, and reliable workflow
